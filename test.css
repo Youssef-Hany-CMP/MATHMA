@@ -1,0 +1,10 @@
+.cl1 {
+    color: blue;
+}
+.cl2 {
+    font-size: 200px;
+}
+#id1 {
+    background-color: blueviolet;
+    flex-basis: auto;
+}
